@@ -8,5 +8,6 @@
   },
   "ignore": [
     "example.html"
-  ]
+  ],
+  "license": "MIT"
 }
